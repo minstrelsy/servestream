@@ -30,7 +30,7 @@ public final class Audio {
     private Audio() {}
     
     /**
-     * Notes table
+     * Audio table
      */
     public static final class AudioColumns implements BaseColumns {
         // This class cannot be instantiated
